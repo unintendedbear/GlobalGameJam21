@@ -10,6 +10,10 @@ Clone the repo and open it with [Unreal Game Engine](https://www.unrealengine.co
 
 Unreal Engine 4.25.4 or later is required.
 
+### How to play
+
+Mouse click to navigate through the menus. WASD to move during the game. Mouse to rotate camera. (I) to interact whenever you find an interactive object.
+
 ## Authors
 
 * **Raúl Calderón** - *Initial Work* - [Argain](https://github.com/Argain)
