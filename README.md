@@ -12,7 +12,11 @@ Unreal Engine 4.25.4 or later is required.
 
 ### How to play
 
-Mouse click to navigate through the menus. WASD to move during the game. Mouse to rotate camera. (I) to interact whenever you find an interactive object.
+* Mouse click to navigate through the menus.
+* WASD to move.
+* Mouse to rotate camera.
+* (I) to interact whenever you find an interactive object.
+* (P) to pause the game.
 
 ## Authors
 
